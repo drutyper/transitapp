@@ -1,0 +1,12 @@
+source 'https://rubygems.org'
+
+gem 'activerecord'
+gem 'pry'
+gem 'sqlite3'
+gem 'minitest'
+gem 'httparty'
+gem 'sinatra'
+gem 'haversine'
+gem 'rack-cors'
+gem 'tilt'
+gem 'erubis'
